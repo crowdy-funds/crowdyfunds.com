@@ -129,5 +129,9 @@ dmypy.json
 .pyre/
 
 # IDE stuff:
-.idea/
+*.idea/
+*./.idea/
 .DS_Store
+
+uploads/
+
